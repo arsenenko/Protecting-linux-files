@@ -47,11 +47,13 @@ Chattr - поддерживает файловые системы как (Reiser
 
 #sudo chattr -i /etc/passwd 
 
+<a href="https://ibb.co/i0zLZJ"><img src="https://preview.ibb.co/g4FuuJ/16152651317_076a65cf50_b.jpg" alt="16152651317_076a65cf50_b" border="0"></a><br /><a target='_blank' href='https://poetandpoem.com/Marriott-Edgar/poems'>poems by Marriott Edgar</a><br />
 
 
 Пример 2
 
 
 
-# sudo chattr +a /var/log/syslog (Атрибуты только на добавления )
+# sudo chattr +a /var/log/syslog 
+(Атрибуты только на добавления )
 
