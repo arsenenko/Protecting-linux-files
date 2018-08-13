@@ -2,8 +2,9 @@
 <a href="https://ibb.co/hSHFZJ"><img src="https://preview.ibb.co/eboNEJ/chattr_command_tech_tutorials.jpg" alt="chattr_command_tech_tutorials" border="0"></a><br /><a target='_blank' ></a><br />
 
 Данная  команда может изменять атрибуты файлов, Linux запреты на удаления файлов или изменения и даже из под правами суперпользователя /root.
-
+---
 Chattr - поддерживает файловые системы как (ReiserFS.XFS.Btrfs ext2.ext3.ext4)......
+---
 # Структура синтаксиса команд:
 
 1. chattr - (Изменения Атрибутов) 
